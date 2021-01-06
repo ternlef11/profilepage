@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "animate.css": "^4.1.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "date-time": "^3.1.0",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.1",
